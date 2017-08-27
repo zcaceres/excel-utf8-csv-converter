@@ -1,11 +1,17 @@
 {
-  "name": "excel-csv-converter",
+  "name": "excel-utf8-csv-converter",
   "version": "1.0.0",
-  "description": "Allows Excel to correctly open UTF-8 encoded CSVs by default",
+  "description": "Makes Excel to correctly open UTF-8 encoded CSVs by default",
+  "keywords": "csv, utf8, utf-8, excel, utility",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zachary Caceres Github: @zcaceres / Twitter: @zachcaceres",
+  "homepage": "www.zachcaceres.com",
+  "author": {
+    "name": "Zachary Caceres",
+    "email": "",
+    "url": "zachcaceres.com"
+  },
   "license": "MIT"
 }
